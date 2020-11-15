@@ -1,0 +1,41 @@
+h1 {
+  color:  blue;
+  font-size: 30px;
+}
+
+.form{
+  color: black;
+  font-size: 25px;
+  text-decoration:underline;
+}
+
+span{
+  /* margin-right: 60px; */
+  color: red;
+  text-decoration:underline;
+  text-decoration-color:black;
+}
+
+.userName{
+  text-decoration: underline;
+}
+
+/* .form1{
+  color: red;
+  font-size: 25px;
+}
+
+.form2{
+  color: greenyellow;
+  font-size: 25px;
+}
+
+.form3{
+  color: palevioletred;
+  font-size: 25px;
+}
+
+.form4{
+  color: yellow;
+  font-size: 25px;
+} */
